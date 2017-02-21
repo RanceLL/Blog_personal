@@ -1,20 +1,20 @@
 # Site settings
-email: 
+email: vergil000@gmail.com
 baseurl: ""
-paginate: 5
+paginate: 7
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-91837424-7
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
-twitter_username: 
-default_img: 
+title: Rang的个人博客
+description: Rang's Personal Website.
+url: "www.rangluo.win"
+#twitter_username: 
+default_img: http://olprfwyyd.bkt.clouddn.com/logo_R_shaped.png
 
 # Profile settings
-name: 
-profile_img: 
+name: Rang's Personal Website.
+profile_img: http://olprfwyyd.bkt.clouddn.com/logo_R_shaped.png
 profile: 
 social:
   github: 
