@@ -7,13 +7,10 @@ categories:
 description: 
 image: http://olpwiffip.bkt.clouddn.com/animal/animal-17474__480_kuro.jpg
 image-sm: http://olpwiffip.bkt.clouddn.com/animal/animal-17474__480_kuro.jpg
-excerpt: 为什么应当对学习编程充满信心？ 因为对大多数人能力的确信。
 ---
-{{ post.content | strip_html | strip_newlines | truncate:100 }}
 
 因为对大多数人能力的确信。
-
-{{ post.excerpt }}
+<br>
 <h3> 【一】</h3>
 <br>
 说些题外话。
