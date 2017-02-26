@@ -7,11 +7,13 @@ categories:
 description: 
 image: http://olpwiffip.bkt.clouddn.com/animal/animal-17474__480_kuro.jpg
 image-sm: http://olpwiffip.bkt.clouddn.com/animal/animal-17474__480_kuro.jpg
+excerpt: 为什么应当对学习编程充满信心？ 因为对大多数人能力的确信。
 ---
+{{ post.content | strip_html | strip_newlines | truncate:100 }}
 
 因为对大多数人能力的确信。
 
-<br>
+{{ post.excerpt }}
 <h3> 【一】</h3>
 <br>
 说些题外话。
@@ -24,7 +26,9 @@ image-sm: http://olpwiffip.bkt.clouddn.com/animal/animal-17474__480_kuro.jpg
 
 由于“个人”的经历是特定的，在不同领域，自己的感受与理解，与想象中的群体均值的偏差方向可能并不相同（仅仅是偏差方向不同，并不涉及好/坏、正/负的价值判断）。
 比如，“个人”觉得太甜的食物，“大家”可能觉得甜度适宜；“个人”觉得太淡的口味，“大家”可能觉得齁咸难忍。
-<br><img src="http://olprfwyyd.bkt.clouddn.com/2017_02_26_blog.jpg" alt="Placeholder"/><br>
+<figure>
+<img src="http://olprfwyyd.bkt.clouddn.com/2017_02_26_blog.jpg" alt="Placeholder"/>
+</figure>
 
 而智商，对认识这种偏差、在此之上建立靠谱模型，推测群体均值，帮助很大。
 
