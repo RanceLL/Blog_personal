@@ -9,13 +9,13 @@ image: http://olpwiffip.bkt.clouddn.com/animal/animal-17474__480_kuro.jpg
 image-sm: http://olpwiffip.bkt.clouddn.com/animal/animal-17474__480_kuro.jpg
 ---
 
-因为对大多数人能力的确信。
+简而言之，大概是出于对大多数人能力的确信。
 <br>
 <h3> 【一】</h3>
 <br>
 说些题外话。
 
-笔者是个IQ合格的男性，越线大约3个标准差。
+笔者是个IQ合格的男性——越线约3个标准差。
 相对高的智商似乎容易与不通人事/低情商绑定，但实际上，多出的这几个标准差，对更好地理解他人、理解模糊的人类群体，甚有助益。
 
 理解他人，是件几乎不可能的事情，更何况是理解模糊的人类群体。
