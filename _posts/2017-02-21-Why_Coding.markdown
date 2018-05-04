@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "为什么应当对学习编程充满信心"
-date: 2017-02-26
+title: "为什么应该对学习编程充满信心"
+date: 2017-02-21
 categories:
   - 日记
 description: 
